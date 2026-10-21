@@ -4,7 +4,7 @@
   "categories": ["productivity"],
   "platforms": [],
   "caveats": [
-    "On Paseo 0.11 and 0.12, documents open in the plugin's own panel; rendering inside the file tab needs Paseo 0.13 or later.",
+    "On Paseo 0.11/0.12, use Open Markdown preview (RaTeX) in the Command Center. File tabs require Paseo 0.13+.",
     "iOS and Android clients show TeX source on Paseo hosts whose Icon cannot draw inline SVG (0.12 and earlier)."
   ],
   "submittedBy": "ZedRover"
