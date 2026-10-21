@@ -1,0 +1,11 @@
+{
+  "repo": "ZedRover/paseo-ratex-markdown",
+  "package": "paseo-ratex-markdown",
+  "categories": ["productivity"],
+  "platforms": [],
+  "caveats": [
+    "On Paseo 0.11 and 0.12, documents open in the plugin's own panel; rendering inside the file tab needs Paseo 0.13 or later.",
+    "iOS and Android clients show TeX source on Paseo hosts whose Icon cannot draw inline SVG (0.12 and earlier)."
+  ],
+  "submittedBy": "ZedRover"
+}
