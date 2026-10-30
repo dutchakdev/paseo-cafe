@@ -5,7 +5,7 @@
   "platforms": ["macos", "linux"],
   "caveats": [
     "Requires macOS or Linux, Node.js 22.12+, the Paseo CLI, and the Claude Code or Codex CLI; one provider is enough.",
-    "Switching is manual and reloads the agent; API keys and automatic rotation are unsupported.",
+    "Switching reloads the agent and is manual unless you opt in to switching on a used-up limit; API keys are unsupported.",
     "Provider sign-in, limit and model-list formats may change with CLI versions."
   ],
   "submittedBy": "dutchakdev"
